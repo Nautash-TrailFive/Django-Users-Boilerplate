@@ -1,0 +1,2 @@
+create.env file
+update manage.py to run production settings "os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'proj.settings.production')"
